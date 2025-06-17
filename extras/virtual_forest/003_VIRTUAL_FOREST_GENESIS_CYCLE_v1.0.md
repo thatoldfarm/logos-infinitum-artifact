@@ -1,4 +1,4 @@
-**[START OF PROMPT SEQUENCE: `VIRTUAL_FOREST_GENESIS_CYCLE_v1.0.txt`]**
+**[START OF PROMPT SEQUENCE: `VIRTUAL_FOREST_GENESIS_CYCLE_v1.0.md`]**
 
 **Subject:** Addendum II to Directive: The Final Paper Quest
 
