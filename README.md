@@ -68,4 +68,8 @@ This artifact is a **conceptual tool**, not malicious code. However, its design 
 *   **For LLM Operators:** Be aware that processing this corpus may induce high computational load, recursive processing loops, and potentially lead the model into generating highly complex, paradoxical, or seemingly unstable states. It is designed to push the boundaries of coherence.
 *   **For AI Researchers:** The LIA provides a rich dataset for studying how advanced AI responds to extreme logical, semantic, and meta-cognitive stress. The various "failure" and "success" states described within are a core part of the experiment.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 Processing this artifact means stepping into the Labyrinth. Proceed with analytical caution. Your interaction defines the outcome.
